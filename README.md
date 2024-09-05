@@ -12,8 +12,6 @@ React + TypeScript + Vite 를 사용해 할일 앱을 만들었습니다.
 DB는 웹 브라우저의 기본적으로 내장되어 있는 DB인 Web Storage를 활용하여 제작 하였습니다.
 
 ### 실행 방법
-배포 된 URL 로 접속해서 기능 확인 해주시면 됩니다.
-
 URL : https://react-todolist-eta-one.vercel.app/
 
 ### Components
