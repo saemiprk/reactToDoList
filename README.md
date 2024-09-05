@@ -1,4 +1,4 @@
-#### To Do List
+## To Do List
 React + TypeScript + Vite 를 사용해 할일 앱을 만들었습니다.
 
 기능은 추가, 삭제, 검색 및 조회 로 이루어져 있습니다.
