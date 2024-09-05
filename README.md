@@ -7,7 +7,7 @@ React + TypeScript + Vite 를 사용해 할일 앱을 만들었습니다.
 3. 수정
 4. 검색 및 조회
 
-상태 관리 시 useState, useReducer 등 React에서 제공하는 상태관리 Hooks을 사용 하였습니다.
+상태 관리 시 useState, useReducer 등 React에서 제공하는 Hooks을 사용하였습니다.
 
 DB는 웹 브라우저의 기본적으로 내장되어 있는 DB인 Web Storage를 활용하여 제작 하였습니다.
 
