@@ -15,7 +15,7 @@ DB는 웹 브라우저의 기본적으로 내장되어 있는 DB인 Web Storage�
 URL : https://react-todolist-eta-one.vercel.app/
 
 ### Components
-경로 : src/component
+경로 : src/components
 
 - 헤더 (Header)
 
