@@ -1,0 +1,36 @@
+.TodoItem{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 20px;
+}
+.TodoItem input[type=checkbox]{
+    width: 20px;
+}
+.TodoItem input[type=text]{
+    flex: 1;
+    border: none;
+    padding: 10px;
+    border: 1px solid rgb(204, 204, 204);
+    padding: 10px;
+    border-radius: 5px;
+}
+.TodoItem input[type=text]:focus{
+    outline: none;
+    border: 1px solid rgb(52, 108, 229);
+}
+.TodoItem .content{
+    flex: 1;
+}
+.TodoItem .date{
+    font-size: 14px;
+    color: gray;   
+}
+.TodoItem button {
+    cursor: pointer;
+    color: gray;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}

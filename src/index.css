@@ -1,0 +1,13 @@
+@font-face{
+    font-family: 'Noto Sans KR';
+    src: url("/fonts/NotoSansKR.ttf");
+    font-weight: 400;
+}
+
+html, body{
+    margin: 0;
+}
+
+body *{
+    font-family: "Noto Sans KR";
+}
