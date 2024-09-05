@@ -37,7 +37,7 @@ URL : https://react-todolist-eta-one.vercel.app/
 - 할일 아이템 (TodoItem)
 
 할 일의 개별 컴포넌트 입니다.
-1. Reducer을 통해 수정, 삭제 구현.
+1. 수정, 삭제 구현.
 2. 수정 클릭 시 입력창(input)으로 변경 되고 Edit버튼이 Check 버튼으로 변경 될 수 있도록 구현.
 3. 체크 클릭 시 선택 값이 저장 될 수 있도록 구현.
 
