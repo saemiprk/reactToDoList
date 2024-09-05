@@ -27,7 +27,7 @@ URL : https://react-todolist-eta-one.vercel.app/
 
   할 일을 추가 하는 컴포넌트 입니다.
   
-  - Add 버튼 클릭 시 / 키보드 엔터 클릭 시 추가 기능 구현.
+  - Add 버튼 클릭 시 / 키보드 엔터 클릭 시 추가 되도록 기능 구현.
   - useRef를 활용해 Add 버튼 클릭 시 입력을 하지 않았을 경우 입력창(input)에 포커스 되도록 설정.
 
 - 리스트 (List)
@@ -43,5 +43,5 @@ URL : https://react-todolist-eta-one.vercel.app/
   
   - 수정, 삭제 구현.
   - 수정 클릭 시 입력창(input)으로 변경 되고 Edit버튼이 Check 버튼으로 변경 될 수 있도록 구현.
-  - 체크 클릭 시 선택 값이 저장 될 수 있도록 구현.
+  - 체크박스 클릭 시 선택 값이 저장 될 수 있도록 구현.
 
